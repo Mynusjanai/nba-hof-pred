@@ -1,0 +1,81 @@
+Year,League,Champion,Tm,Runner_Up,Runner_Up_Code
+2020,NBA,Los Angeles Lakers,LAL,Miami Heat,LAL
+2019,NBA,Toronto Raptors,TOR,Golden State Warriors,TOR
+2018,NBA,Golden State Warriors,GSW,Cleveland Cavaliers,GSW
+2017,NBA,Golden State Warriors,GSW,Cleveland Cavaliers,GSW
+2016,NBA,Cleveland Cavaliers,CLE,Golden State Warriors,CLE
+2015,NBA,Golden State Warriors,GSW,Cleveland Cavaliers,GSW
+2014,NBA,San Antonio Spurs,SAS,Miami Heat,SAS
+2013,NBA,Miami Heat,MIA,San Antonio Spurs,MIA
+2012,NBA,Miami Heat,MIA,Oklahoma City Thunder,MIA
+2011,NBA,Dallas Mavericks,DAL,Miami Heat,DAL
+2010,NBA,Los Angeles Lakers,LAL,Boston Celtics,LAL
+2009,NBA,Los Angeles Lakers,LAL,Orlando Magic,LAL
+2008,NBA,Boston Celtics,BOS,Los Angeles Lakers,BOS
+2007,NBA,San Antonio Spurs,SAS,Cleveland Cavaliers,SAS
+2006,NBA,Miami Heat,MIA,Dallas Mavericks,DAL
+2005,NBA,San Antonio Spurs,SAS,Detroit Pistons,DET
+2004,NBA,Detroit Pistons,DET,Los Angeles Lakers,LAL
+2003,NBA,San Antonio Spurs,SAS,New Jersey Nets,NJN
+2002,NBA,Los Angeles Lakers,LAL,New Jersey Nets,NJN
+2001,NBA,Los Angeles Lakers,LAL,Philadelphia 76ers,PHI
+2000,NBA,Los Angeles Lakers,LAL,Indiana Pacers,IND
+1999,NBA,San Antonio Spurs,SAS,New York Knicks,NYK
+1998,NBA,Chicago Bulls,CHI,Utah Jazz,UTA
+1997,NBA,Chicago Bulls,CHI,Utah Jazz,UTA
+1996,NBA,Chicago Bulls,CHI,Seattle SuperSonics,SEA
+1995,NBA,Houston Rockets,HOU,Orlando Magic,ORL
+1994,NBA,Houston Rockets,HOU,New York Knicks,NYK
+1993,NBA,Chicago Bulls,CHI,Phoenix Suns,PHX
+1992,NBA,Chicago Bulls,CHI,Portland Trail Blazers,POR
+1991,NBA,Chicago Bulls,CHI,Los Angeles Lakers,LAL
+1990,NBA,Detroit Pistons,DET,Portland Trail Blazers,POR
+1989,NBA,Detroit Pistons,DET,Los Angeles Lakers,LAL
+1988,NBA,Los Angeles Lakers,LAL,Detroit Pistons,DET
+1987,NBA,Los Angeles Lakers,LAL,Boston Celtics,BOS
+1986,NBA,Boston Celtics,BOS,Houston Rockets,HOU
+1985,NBA,Los Angeles Lakers,LAL,Boston Celtics,BOS
+1984,NBA,Boston Celtics,BOS,Los Angeles Lakers,LAL
+1983,NBA,Philadelphia 76ers,PHI,Los Angeles Lakers,LAL
+1982,NBA,Los Angeles Lakers,LAL,Philadelphia 76ers,PHI
+1981,NBA,Boston Celtics,BOS,Houston Rockets,HOU
+1980,NBA,Los Angeles Lakers,LAL,Philadelphia 76ers,PHI
+1979,NBA,Seattle SuperSonics,SEA,Washington Bullets,WAS
+1978,NBA,Washington Bullets,WAS,Seattle SuperSonics,SEA
+1977,NBA,Portland Trail Blazers,POR,Philadelphia 76ers,PHI
+1976,NBA,Boston Celtics,BOS,Phoenix Suns,PHX
+1976,ABA,New York Nets,NYN,Denver Nuggets,DEN
+1975,NBA,Golden State Warriors,GSW,Washington Bullets,WAS
+1975,ABA,Kentucky Colonels,KEN,Indiana Pacers,IND
+1974,NBA,Boston Celtics,BOS,Milwaukee Bucks,MIL
+1974,ABA,New York Nets,NYN,Utah Stars,UTS
+1973,NBA,New York Knicks,NYK,Los Angeles Lakers,LAL
+1973,ABA,Indiana Pacers,IND,Kentucky Colonels,KEN
+1972,NBA,Los Angeles Lakers,LAL,New York Knicks,NYK
+1972,ABA,Indiana Pacers,IND,New York Nets,NYN
+1971,NBA,Milwaukee Bucks,MIL,Baltimore Bullets,BAL
+1971,ABA,Utah Stars,UTS,Kentucky Colonels,KEN
+1970,NBA,New York Knicks,NYK,Los Angeles Lakers,LAL
+1970,ABA,Indiana Pacers,IND,Los Angeles Stars,LAS
+1969,NBA,Boston Celtics,BOS,Los Angeles Lakers,LAL
+1969,ABA,Oakland Oaks,OAK,Indiana Pacers,IND
+1968,NBA,Boston Celtics,BOS,Los Angeles Lakers,LAL
+1968,ABA,Pittsburgh Pipers,PTC,New Orleans Buccaneers,NOB
+1967,NBA,Philadelphia 76ers,PHI,San Francisco Warriors,SFW
+1966,NBA,Boston Celtics,BOS,Los Angeles Lakers,LAL
+1965,NBA,Boston Celtics,BOS,Los Angeles Lakers,LAL
+1964,NBA,Boston Celtics,BOS,San Francisco Warriors,SFW
+1963,NBA,Boston Celtics,BOS,Los Angeles Lakers,LAL
+1962,NBA,Boston Celtics,BOS,Los Angeles Lakers,LAL
+1961,NBA,Boston Celtics,BOS,St. Louis Hawks,STL
+1960,NBA,Boston Celtics,BOS,St. Louis Hawks,STL
+1959,NBA,Boston Celtics,BOS,Minneapolis Lakers,MPL
+1958,NBA,St. Louis Hawks,STL,Boston Celtics,BOS
+1957,NBA,Boston Celtics,BOS,St. Louis Hawks,STL
+1956,NBA,Philadelphia Warriors,PHW,Fort Wayne Pistons,FTW
+1955,NBA,Syracuse Nationals,SYR,Fort Wayne Pistons,FTW
+1954,NBA,Minneapolis Lakers,MPL,Syracuse Nationals,SYR
+1953,NBA,Minneapolis Lakers,MPL,New York Knicks,NYK
+1952,NBA,Minneapolis Lakers,MPL,New York Knicks,NYK
+1951,NBA,Rochester Royals,ROC,New York Knicks,NYK
+1950,NBA,Minneapolis Lakers,MPL,Syracuse Nationals,SYR
