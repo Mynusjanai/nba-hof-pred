@@ -19,7 +19,7 @@ Once our data was properly cleaned and formatted, we began to explore our data a
 Further analyzing our data we can start to see the relationship both Win Share and Points have with identifying HOFers. In the scatterplot graph below you can see has both metrics increase, more HOF players appear on the plot. <br>
 ![WS_PTS](./img/HOF_PTS_WS2.png) <br><br>
 
-# Feature engineering
+# Feature Engineering
 During EDA we created several custom features in order to better identify NBA HOFers, below are the ones used in our final model:
 * 'Title_Star' -- NBA players who have won a championship and have an all-star appearance
 * '20/10_B' -- NBA players who average over 20 points and 10 rebounds in thier career
