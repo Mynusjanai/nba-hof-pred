@@ -50,6 +50,7 @@ Most of our models above show great accuracy, but due to class imbalance in our 
 ├── img
 ├── trials
 │   └── nba_hof_workbook.ipynb
-├── final_nba_hof.ipynb
+├── .gitignore
 ├── README.md
-└── NBA_HOF_Predictions.pdf
+├── final_nba_hof.ipynb
+└── nba_hof_predictions.pdf
