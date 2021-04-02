@@ -32,20 +32,17 @@ After our EDA and feature engineering we were ready to begin our modeling the pr
 
 ## Final Model - KNN
 Most of our models above show great accuracy, but due to class imbalance in our data set we cannot solely rely on accuracy to grade our model. As mentioned earlier, we're focused on having a high precision score in order to reduce our model's false positives predictions. This lead to choose our KNN model as our final model as it has the highest precision score at 95.2% and our second strongest F1 score, showing this model performs well overall.<br>
-![KNN_CM](./img/KNN_CM.png)
-<br><br>
+![KNN_CM](./img/KNN_CM.png) <br><br>
 
 # Next Steps
 * Update data set to include data from 2018-2020 seasons
 * Incorporate additional advanced analytics statistics, foreign born status
-* Use our final KNN model to predict on the current & not yet eligible NBA players
-<br><br>
+* Use our final KNN model to predict on the current & not yet eligible NBA players <br><br>
 
 # References
 
-Kaggle Data Set -- https://www.kaggle.com/drgilermo/nba-players-stats<br>
-Additional Award Data -- https://www.basketball-reference.com/
-<br><br>
+* Kaggle Data Set -- https://www.kaggle.com/drgilermo/nba-players-stats <br>
+* Additional Award Data -- https://www.basketball-reference.com/ <br><br>
 
 # Repository Structure
 ```
